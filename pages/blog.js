@@ -6,11 +6,8 @@ export default function Blog() {
     <div style={{ padding: "2rem", fontFamily: "Arial, sans-serif" }}>
       <Head>
         {/* ✅ Replace with your AdSense client ID */}
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-xxxxxxxxxxxxxxxx"
-          crossOrigin="anonymous"
-        ></script>
+        <<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8805044662576958"
+     crossorigin="anonymous"></script>
       </Head>
 
       <h1>Welcome to Our Blog</h1>
